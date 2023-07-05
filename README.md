@@ -2,7 +2,7 @@
 
 ## Overview
 
-A project used to mainly learn how to use mock data from a database to show it in the form of charts.
+A project created to learn how to use mock data from a database to show it in the form of charts.
 
 Source: https://www.youtube.com/watch?v=0cPCMIuDk2I&list=PLgqCdvQGlyb1ozE0bkQeWVFOfzaCHaYLw&index=52&t=129s
 
